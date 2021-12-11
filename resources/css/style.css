@@ -28,3 +28,8 @@ h1 {
     color: gray;
     font-weight: normal;
 }
+.copyright {
+    text-align: right;
+    color: grey;
+    font-weight: normal;
+}
